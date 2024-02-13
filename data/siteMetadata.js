@@ -53,12 +53,12 @@ const siteMetadata = {
     hero: {
       enable: true, // required (If false, display nothing)
       type: "2", // required (1 or 2)
-      title: "Tokimeki Blog", // optional (If blank, title above is used)
+      title: "BJUT-SWIFT", // optional (If blank, title above is used)
       description:
-        "Welcome to the sample site of the blog template 'Campanula'!\n\nThis area is the Hero Section.\nPlease Update the home.hero variable\nin siteMetadata.js.", // optional (If blank, description is used)
+        "Sharing Wisdom, Innovation, & Futuristic Technologies (S.W.I.F.T.)\n\nThis area is the Hero Section.\nPlease Update the home.hero variable\nin siteMetadata.js.", // optional (If blank, description is used)
       button: {
         enable: true, // required (If false, display nothing)
-        text: "See My Projects", // If enabled required
+        text: "See Our Projects", // If enabled required
         href: "/blog/my-project", // If enabled required
       },
       // image: '/images/stock/hero_square.png', // optional
@@ -111,7 +111,7 @@ const siteMetadata = {
   },
   // Footer
   footer: {
-    description: "© 2023 Dan Shari All right reserved.", // required
+    description: "© 2024 bjut-swift right reserved.", // required
   },
 };
 
