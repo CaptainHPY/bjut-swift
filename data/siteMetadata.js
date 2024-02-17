@@ -37,7 +37,7 @@ const siteMetadata = {
   authorDescription:
     "Awesome Inc. CTO TypeScript / Next.js / Tailwind CSS / Daisy UI / Anime", // optional (If blank, display nothing)
   email: "address@yoursite.com", // optional
-  github: "https://github.com/sakurabird/Campanula", // optional
+  github: "https://github.com/bjut-swift", // optional
   twitter: "https://twitter.com/Twitter", // optional
   facebook: "https://facebook.com", // optional
   youtube: "https://youtube.com", // optional
