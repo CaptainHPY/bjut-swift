@@ -1,6 +1,6 @@
 const siteMetadata = {
-  title: "Tokimeki", // required
-  author: "Dan Shari", // required
+  title: "bjut-swift", // required
+  author: "bjut-swift", // required
   description: "Please enter a description of your website here.", // required
   language: "en-us", // required
   theme: {
