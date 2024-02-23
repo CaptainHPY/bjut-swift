@@ -33,9 +33,9 @@ const siteMetadata = {
   },
   // Common
   readMoreButtonTitle: "Read More...", // required (Edit the text for the 'Read More' button. If blank, display default)
-  avatarImage: "/images/stock/avatar.png", // required
+  avatarImage: "/images/stock/title.png", // required
   authorDescription:
-    "Awesome Inc. CTO TypeScript / Next.js / Tailwind CSS / Daisy UI / Anime", // optional (If blank, display nothing)
+    "Sharing Wisdom, Innovation, & Futuristic Technologies (S.W.I.F.T.)", // optional (If blank, display nothing)
   email: "address@yoursite.com", // optional
   github: "https://github.com/bjut-swift", // optional
   twitter: "https://twitter.com/Twitter", // optional
@@ -46,7 +46,7 @@ const siteMetadata = {
   // Header (Please modify data/headerNavLinks.ts)
   header: {
     // icon: '', // optional
-    icon: "/images/stock/icon.svg", // optional (If blank, display nothing)
+    icon: "/images/stock/title.png", // optional (If blank, display nothing)
   },
   // Home
   home: {
@@ -55,7 +55,7 @@ const siteMetadata = {
       type: "2", // required (1 or 2)
       title: "BJUT-SWIFT", // optional (If blank, title above is used)
       description:
-        "Sharing Wisdom, Innovation, & Futuristic Technologies (S.W.I.F.T.)\n\nThis area is the Hero Section.\nPlease Update the home.hero variable\nin siteMetadata.js.", // optional (If blank, description is used)
+        "Sharing Wisdom, Innovation, & Futuristic Technologies (S.W.I.F.T.)", // optional (If blank, description is used)
       button: {
         enable: true, // required (If false, display nothing)
         text: "See Our Projects", // If enabled required
@@ -73,13 +73,7 @@ const siteMetadata = {
     boards: [
       // This section displays the contents of the markdown(mdx) file. If blank, display nothing.
       {
-        fileName: "board-2.mdx", // required (Please create an mdx file in the data/board directory. Please write the file name in this item.)
-      },
-      {
-        fileName: "board-1.mdx", // required (Please create an mdx file in the data/board directory. Please write the file name in this item.)
-      },
-      {
-        fileName: "board-3.mdx", // required (Please create an mdx file in the data/board directory. Please write the file name in this item.)
+        fileName: "introduction.mdx", // required (Please create an mdx file in the data/board directory. Please write the file name in this item.)
       },
     ],
     latestPosts: {
