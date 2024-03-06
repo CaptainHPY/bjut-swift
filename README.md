@@ -1,6 +1,5 @@
-BJUT-SWIFT Association
-
-Based on the Campanula Template
+# BJUT-SWIFT Association
+> Sharing Wisdom, Innovation, & Futuristic Technologies (S.W.I.F.T)
 
 ### Dev
 
