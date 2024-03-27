@@ -27,7 +27,7 @@ const BlogPage = (props: { params: { number: string } }) => {
 
   const param: ListLayoutProps = {
     posts: posts,
-    title: 'All',
+    title: '全部',
     initialDisplayPosts: initialDisplayPosts,
     pagination: pagination,
   }

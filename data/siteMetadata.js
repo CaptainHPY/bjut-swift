@@ -1,5 +1,5 @@
 const siteMetadata = {
-  title: "bjut-swift", // required
+  title: "BJUT-SWIFT", // required
   author: "bjut-swift", // required
   description: "Please enter a description of your website here.", // required
   language: "en-us", // required
@@ -14,12 +14,12 @@ const siteMetadata = {
       name: "mytheme2", // required
     },
   },
-  locale: "en-US", // required
-  siteUrl: "https://campanula-demo.vercel.app/", // required
+  locale: "zh-CN", // required
+  siteUrl: "https://bjut-swift.vercel.app/", // required
   ogImage: "/images/stock/ogp.png", // required
   keywords: ["Next.js", "Tailwind CSS", "Daisy UI"], // optional
   creator: "Dan Shari", // optional
-  canonicalUrl: "https://campanula-demo.vercel.app/", // optional
+  canonicalUrl: "https://bjut-swift.vercel.app/", // optional
   copyrightYear: "2023", // optional (Used in the rss feed)
   twitterCard: {
     // See https://developer.twitter.com/en/docs/twitter-for-websites/cards/overview/markup
@@ -32,11 +32,11 @@ const siteMetadata = {
     follow: true, // required
   },
   // Common
-  readMoreButtonTitle: "Read More...", // required (Edit the text for the 'Read More' button. If blank, display default)
+  readMoreButtonTitle: "更多...", // required (Edit the text for the 'Read More' button. If blank, display default)
   avatarImage: "/images/stock/title.png", // required
   authorDescription:
     "Sharing Wisdom, Innovation, & Futuristic Technologies (S.W.I.F.T.)", // optional (If blank, display nothing)
-  email: "address@yoursite.com", // optional
+  email: "bjut.swift@gmail.com", // optional
   github: "https://github.com/bjut-swift", // optional
   twitter: "https://twitter.com/Twitter", // optional
   facebook: "https://facebook.com", // optional
@@ -46,7 +46,7 @@ const siteMetadata = {
   // Header (Please modify data/headerNavLinks.ts)
   header: {
     // icon: '', // optional
-    icon: "/images/stock/title.png", // optional (If blank, display nothing)
+    icon: ""//"/images/stock/title.png", // optional (If blank, display nothing)
   },
   // Home
   home: {
@@ -55,10 +55,10 @@ const siteMetadata = {
       type: "2", // required (1 or 2)
       title: "BJUT-SWIFT", // optional (If blank, title above is used)
       description:
-        "Sharing Wisdom, Innovation, & Futuristic Technologies (S.W.I.F.T.)", // optional (If blank, description is used)
+        "共享智慧，引领创新，展望未来技术 \n Sharing Wisdom, Innovation, & Futuristic Technologies (S.W.I.F.T.)", // optional (If blank, description is used)
       button: {
         enable: true, // required (If false, display nothing)
-        text: "See Our Projects", // If enabled required
+        text: "看看我们的项目", // If enabled required
         href: "/blog/my-project", // If enabled required
       },
       // image: '/images/stock/hero_square.png', // optional
@@ -105,7 +105,7 @@ const siteMetadata = {
   },
   // Footer
   footer: {
-    description: "© 2024 bjut-swift right reserved.", // required
+    description: "© 2024 bjut-swift All rights reserved.", // required
   },
 };
 

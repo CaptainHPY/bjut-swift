@@ -15,8 +15,8 @@ const Header = () => {
               <Image
                 src={siteMetadata.header.icon}
                 alt={'site icon'}
-                width={24}
-                height={24}
+                width={30}
+                height={30}
                 className="w-6 h-6 mr-3 2xl:w-10 2xl:h-10 2xl:mr-5"
               />
             </div>
