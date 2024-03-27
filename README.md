@@ -1,7 +1,8 @@
 # BJUT-SWIFT Association
+
 > Sharing Wisdom, Innovation, & Futuristic Technologies (S.W.I.F.T)
 
-### Dev
+## Dev
 
 - [Node.js](https://nodejs.org/en) (>=16.8)
 
@@ -11,6 +12,7 @@
    git clone https://github.com/bjut-swift/bjut-swift.git
    cd bjut-swift
    ```
+
 2. Install the dependencies:
 
    ```bash
